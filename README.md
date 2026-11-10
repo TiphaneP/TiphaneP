@@ -23,7 +23,7 @@ Software Engineering student with a technical background in Web Development, exp
 
 ### ✧ Technologies
 
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,postgres,git,github,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,postgres,git,github,vscode&theme=light" />
 
 ### Currently studying
 
