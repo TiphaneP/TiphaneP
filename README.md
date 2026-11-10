@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8F2FA,50:E9D9F3,100:C8A9DF&height=175&section=header&text=T%C3%ADphane&fontSize=48&fontColor=624779&fontAlignY=40&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5EFFA,50:E4D5F0,100:C5A6DC&height=170&section=header&text=T%C3%ADphane&fontSize=46&fontColor=634779&fontAlignY=40" width="100%" />
 
-<img src="./borboletas-estrelas-lavanda.gif" width="300" alt="Borboletas e estrelas lilás" />
-
-### Software Engineering Student
-
-*Learning, creating & growing.*
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=17&duration=3500&pause=1000&color=9B79B8&center=true&vCenter=true&width=380&lines=Software+Engineering+Student;Learning%2C+creating+%26+growing." />
 
 </div>
 
@@ -26,24 +22,22 @@ Software Engineering student at IFPE.
 
 ### Currently learning
 
-`Java` · `Object-Oriented Programming`
+`Java` · `SQL` · `Object-Oriented Programming`
 
-`SQL` · `Requirements Engineering` · `Operating Systems`
+`Requirements Engineering` · `Operating Systems`
 
-### ♡ Find me
+### Find me
 
-<a href="https://www.linkedin.com/in/tiphane-pereira/">
-<img src="https://img.shields.io/badge/LinkedIn-C8A9DF?style=for-the-badge&logo=linkedin&logoColor=624779" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BB9BD5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiphane-pereira/)
 
 ---
 
 *Small steps, continuous learning.*
 
-<img src="./borboletas-estrelas-lavanda.gif" width="240" alt="Borboletas e estrelas" />
+<img src="./borboletas-estrelas-lavanda.gif" width="300" alt="Lavender butterflies and sparkling stars" />
 
-<sub>✧ Thanks for visiting! ✧</sub>
+✧ Thanks for visiting! ✧
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8A9DF,50:E9D9F3,100:F8F2FA&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C5A6DC,50:E4D5F0,100:F5EFFA&height=95&section=footer" width="100%" />
 
 </div>
