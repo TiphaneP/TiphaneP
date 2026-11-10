@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8F2FA,50:E9D9F3,100:CDB2E2&height=170&section=header&text=T%C3%ADphane&fontSize=46&fontColor=634779&fontAlignY=40" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8F2FA,50:E9D9F3,100:C8A9DF&height=175&section=header&text=T%C3%ADphane&fontSize=48&fontColor=624779&fontAlignY=40&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=17&duration=3500&pause=1000&color=9B79B8&center=true&vCenter=true&width=380&lines=Software+Engineering+Student;Learning%2C+creating+%26+growing." />
+<img src="./borboletas-estrelas-lavanda.gif" width="300" alt="Borboletas e estrelas lilás" />
 
-<img src="https://media.giphy.com/media/2dloZeOxl8VOVK6ROz/giphy.gif" width="65" alt="Delicate flower animation" />
+### Software Engineering Student
+
+*Learning, creating & growing.*
 
 </div>
 
@@ -24,21 +26,24 @@ Software Engineering student at IFPE.
 
 ### Currently learning
 
-`Java` · `SQL` · `Object-Oriented Programming`
+`Java` · `Object-Oriented Programming`
 
-`Requirements Engineering` · `Operating Systems`
+`SQL` · `Requirements Engineering` · `Operating Systems`
 
-### Find me
+### ♡ Find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CDB2E2?style=flat-square&logo=linkedin&logoColor=634779)](https://www.linkedin.com/in/tiphane-pereira/)
-[![GitHub](https://img.shields.io/badge/GitHub-E9D9F3?style=flat-square&logo=github&logoColor=634779)](https://github.com/TiphaneP)
+<a href="https://www.linkedin.com/in/tiphane-pereira/">
+<img src="https://img.shields.io/badge/LinkedIn-C8A9DF?style=for-the-badge&logo=linkedin&logoColor=624779" />
+</a>
 
 ---
 
 *Small steps, continuous learning.*
 
-✧ Thanks for visiting! ✧
+<img src="./borboletas-estrelas-lavanda.gif" width="240" alt="Borboletas e estrelas" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CDB2E2,50:E9D9F3,100:F8F2FA&height=90&section=footer" width="100%" />
+<sub>✧ Thanks for visiting! ✧</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8A9DF,50:E9D9F3,100:F8F2FA&height=100&section=footer" width="100%" />
 
 </div>
