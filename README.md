@@ -1,30 +1,13 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EADCF8,50:D8B7F0,100:B58AD9&height=170&section=header&text=T%C3%ADphane&fontSize=48&fontColor=553477&fontAlignY=40&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5EFFA,50:E4D5F0,100:C5A6DC&height=170&section=header&text=T%C3%ADphane&fontSize=46&fontColor=634779&fontAlignY=40" width="100%" />
 
-### 👩‍💻 Software Engineering Student
+### Software Engineering Student
 
-Learning, creating and exploring the world of technology.
+*Learning, creating & growing.* ✧
 
-Aprendendo, criando e explorando o mundo da tecnologia.
-
-</div>
-
----
-
-<div align="center">
-
-### 💜 Tech Stack
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,postgres,github,linux&theme=light" />
-
-### ☁️ Currently learning
-
-`Java` · `SQL` · `Data Structures` 
-
-### 💜 GitHub Projects
-
-*Little steps, big ideas.*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-B78BCF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiphane-pereira/)
+[![GitHub](https://img.shields.io/badge/GitHub-8F6BAA?style=flat-square&logo=github&logoColor=white)](https://github.com/TiphaneP)
 
 </div>
 
@@ -32,8 +15,34 @@ Aprendendo, criando e explorando o mundo da tecnologia.
 
 <div align="center">
 
-♡ Thanks for visiting! Obrigada pela visita ♡
+### ♡ About me
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B58AD9,50:D8B7F0,100:EADCF8&height=100&section=footer" width="100%" />
+Estudante de Engenharia de Software, com formação técnica em Informática para Internet. Explorando diferentes áreas da tecnologia e desenvolvendo meus conhecimentos através de estudos e projetos.
+
+Software Engineering student with a technical background in Web Development, exploring different areas of technology through learning and projects.
+
+### ✧ Technologies
+
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,postgres,git,github,vscode&theme=light" />
+
+### Currently studying
+
+`Java · OOP` &nbsp; `SQL` &nbsp; `Software Requirements` &nbsp; `Operating Systems`
+
+### Other areas of study
+
+`Computer Networks` · `Cybersecurity` · `Web Development`
+
+</div>
+
+---
+
+<div align="center">
+
+*Small steps, continuous learning.*
+
+✧ Thanks for visiting! ✧
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C5A6DC,50:E4D5F0,100:F5EFFA&height=95&section=footer" width="100%" />
 
 </div>
